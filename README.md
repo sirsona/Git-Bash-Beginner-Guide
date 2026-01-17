@@ -1,3 +1,14 @@
+---
+title: Beginner’s Guide to Git & GitHub Using SSH Keys
+published: true
+description: A beginner-friendly tutorial on Git, GitHub, SSH keys, push, pull, and version control.
+tags: git, github, ssh, beginners
+---
+
+# Beginner’s Guide to Git & GitHub Using SSH Keys
+
+Git is an essential tool for developers...
+
 # Learn Git basics for Beginners
 
 If you're new to coding, you've probably heard about Git and Github. They're
