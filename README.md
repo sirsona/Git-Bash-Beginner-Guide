@@ -29,12 +29,13 @@ It allows you to:
 
 ### For Windows Users:
 
-- Visit <git-scm.com>
+- Visit [Git Bash](https://git-scm.com)
+
 - Download the Windows installer
 - Run the installer with these recommended settings:
   - Select "Use Git from Git Bash only "
-  - Choose "Use the OpenS# SL library"
-  - Selecxt "Checkout Windows-style, commit Unix-style line endings"
+  - Choose "Use the OpenSSL library"
+  - Select "Checkout Windows-style, commit Unix-style line endings"
   - Choose "Use MinTTY"
   - Leave other options as default
 
